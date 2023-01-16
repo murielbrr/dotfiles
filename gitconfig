@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = muriel.bourre.18@gmail.com
+	name = muriel bourre
